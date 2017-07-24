@@ -1,5 +1,3 @@
-# hello-world
-IDEaS 1st homework
+# IDEaS-Assignment
+IDEaS Workshop S17
 
-Hi all,
-This is pratctice for Git hub.
